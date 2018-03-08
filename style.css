@@ -4,6 +4,10 @@ body {
 	background-size: auto;
 }
 
+h1 {
+	background-color: rgb(134, 134, 134);
+}
+
 img.dimension{
 	max-width:  420;
 	max-height:  250;
