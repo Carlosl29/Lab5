@@ -2,6 +2,8 @@ body {
 	background-color: rgb(229, 0, 0);
 	background-image: url("planetPics/background.jpg");
 	background-size: auto;
+	font-family: "Gruppo"; 
+	font-size: 22px;
 }
 
 h1 {
