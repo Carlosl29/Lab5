@@ -1,5 +1,7 @@
 body {
 	background-color: rgb(229, 0, 0);
+	background-image: url("planetPics/background.jpg");
+	background-size: 2000px 1500px;
 }
 
 img.dimension{
@@ -10,12 +12,14 @@ img.dimension{
 table {
 	width: 100%;
 	height: 100%;
-	background-color: rgb(0, 0, 0);
+	background-color: rgb(134, 134, 134);
+
 
 }
 
 tr.TopRow {
 	color: white;
+	background-color: rgb(196, 13, 13);
 }
 
 tr.mass{
