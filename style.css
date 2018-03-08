@@ -4,10 +4,14 @@ body {
 	background-size: auto;
 	font-family: "Gruppo"; 
 	font-size: 22px;
+
 }
 
 h1 {
 	background-color: rgb(134, 134, 134);
+	outline-width: 5px;
+	outline-style: ridge;
+	outline-color: red;
 }
 
 img.dimension{
@@ -19,6 +23,9 @@ table {
 	width: 100%;
 	height: 100%;
 	background-color: rgb(134, 134, 134);
+	outline-width: 5px;
+	outline-style: ridge;
+	outline-color: red;
 
 
 }
@@ -26,14 +33,17 @@ table {
 tr.TopRow {
 	color: white;
 	background-color: rgb(196, 13, 13);
+	text-shadow: 2px 2px #720606;
 }
 
 tr.mass {
 	color: white;
+
 }
 
 tr.diameter {
 	color: rgb(0, 0, 0);
+
 }
 
 tr.density {
