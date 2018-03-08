@@ -23,17 +23,17 @@ tr.mass{
 }
 
 tr.diameter{
-
+	color: rgb(104, 104, 104);
 }
 
 tr.density{
-
+	color: white;
 }
 
 tr.distance{
-
+	color: rgb(104, 104, 104);
 }
 
 tr.surfcTemp{
-	
+	color: white;
 }
