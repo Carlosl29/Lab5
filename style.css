@@ -28,22 +28,30 @@ tr.TopRow {
 	background-color: rgb(196, 13, 13);
 }
 
-tr.mass{
+tr.mass {
 	color: white;
 }
 
-tr.diameter{
-	color: rgb(104, 104, 104);
+tr.diameter {
+	color: rgb(0, 0, 0);
 }
 
-tr.density{
+tr.density {
 	color: white;
+}
+
+tr.velocity {
+	color: rgb(0, 0, 0);
+}
+
+tr.period {
+	color: white;
+}
+
+tr.revPeriod {
+	color: rgb(0, 0, 0);
 }
 
 tr.distance{
-	color: rgb(104, 104, 104);
-}
-
-tr.surfcTemp{
 	color: white;
 }
